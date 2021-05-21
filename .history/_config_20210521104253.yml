@@ -126,7 +126,7 @@ content:
       I am a **huge fan of classic movies**, I can spend hours talking about movies. Also, I am a **Crossfit lover**.
 
 # Footer
-footer_show_references: false
+footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
