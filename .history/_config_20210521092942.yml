@@ -47,19 +47,14 @@ content:
     layout: list
     content:
       - layout: right
-        title: Qintess
-        sub_title: Senior Full-Stack Developer
-        caption: October 2020 - present
-        link: qintess.com
+        title: Company name
+        sub_title: Job title
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-        The company does outsourcing for Dell Technologies. I worked in the Dell Financial Service team, responsible for the development of the US Customer Portal this included:
-        - Building an application in Java (Spring Framework) to consume messages from a RabbitMQ queue.
-        - Building client’s favorite multipayment application using Angular 8, solving a long problem for Dell
-        Financial Service.
-        - Building a REST API application to be used in the Multipayment using Java.
-        - Building a backend application to consume from a SOAP payment service.
-        Technologies: Angular 8, TypeScript, Java, Spring Framework, Hibernate, Microservices, Rabbit MQ e
-        Git.
+          Description of role
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
