@@ -91,22 +91,16 @@ content:
             
             <mark>Technologies:</mark> JavaScript, Java, Android, AngularJS, Spring Framework, Hibernate, Kotlin, Jasper Studio, BI (Pentaho), Realm , Postgresql, GIT, Jira, and Bitbucket.
       - layout: right
-        title: Secretaria do Planejamento e Gestão do Ceará (SEPLAG)
-        sub_title: Software Developer
-        caption: April 2011 - January 2016
-        link: seplag.ce.gov.br
+        title: Secretaria do Desenvolvimento Agrário do Ceará (SDA)
+        sub_title: Full-Stack Developer
+        caption: January 2016 - April 2019
+        link: sda.ce.gov.br
         description: | # this will include new lines to allow paragraphs
-            Development of planning and financial software to the state of Ceara using C# .NET
-
-            Prepares the software requirements and specifications document
-
-            Provide assistance and advice to business users in the effective use of applications and information technology.
-
-            Provide technical expertise and recommendations in assessing new software project.
-
-            Identify opportunities that can improve efficiency of business processes.
+            SDA is the agricultural secretary in the state of Ceara. Responsible for helping all families that live from the plantation in the remote area of the state. I worked on the ATER project our main goal was to help more than 18.000 families benefit from several support programs in Ceará rural area.
             
-            <mark>Technologies:</mark> C# .NET, Oracle and Crystal Report
+            One of our mobile application is Gestão de ATER. App with a large number of daily users, also with an impact on more than 18.000 families at Ceará rural area.
+            
+            <mark>Technologies:</mark> JavaScript, Java, Android, AngularJS, Spring Framework, Hibernate, Kotlin, Jasper Studio, BI (Pentaho), Realm , Postgresql, GIT, Jira, and Bitbucket.            
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:

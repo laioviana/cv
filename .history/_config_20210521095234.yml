@@ -79,7 +79,7 @@ content:
             I worked on the Human Resource software project responsible for managing more than 160,000 public servants in the state.
             
             <mark>Technologies:</mark> Angular 7, TypeScript, Java, Spring Framework, Hibernate, Git and PostgreSQL.    
-      - layout: right     
+      - layout: right
         title: Secretaria do Desenvolvimento Agrário do Ceará (SDA)
         sub_title: Full-Stack Developer
         caption: January 2016 - April 2019
@@ -89,24 +89,7 @@ content:
             
             One of our mobile application is Gestão de ATER. App with a large number of daily users, also with an impact on more than 18.000 families at Ceará rural area.
             
-            <mark>Technologies:</mark> JavaScript, Java, Android, AngularJS, Spring Framework, Hibernate, Kotlin, Jasper Studio, BI (Pentaho), Realm , Postgresql, GIT, Jira, and Bitbucket.
-      - layout: right
-        title: Secretaria do Planejamento e Gestão do Ceará (SEPLAG)
-        sub_title: Software Developer
-        caption: April 2011 - January 2016
-        link: seplag.ce.gov.br
-        description: | # this will include new lines to allow paragraphs
-            Development of planning and financial software to the state of Ceara using C# .NET
-
-            Prepares the software requirements and specifications document
-
-            Provide assistance and advice to business users in the effective use of applications and information technology.
-
-            Provide technical expertise and recommendations in assessing new software project.
-
-            Identify opportunities that can improve efficiency of business processes.
-            
-            <mark>Technologies:</mark> C# .NET, Oracle and Crystal Report
+            <mark>Technologies:</mark> JavaScript, Java, Android, AngularJS, Spring Framework, Hibernate, Kotlin, Jasper Studio, BI (Pentaho), Realm , Postgresql, GIT, Jira, and Bitbucket.                          
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
