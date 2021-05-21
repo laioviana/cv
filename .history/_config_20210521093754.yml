@@ -52,7 +52,8 @@ content:
         caption: October 2020 - present
         link: qintess.com
         description: | # this will include new lines to allow paragraphs
-        The company does outsourcing for Dell Technologies. I worked in the Dell Financial Service team, responsible for the development of the US Customer Portal.       
+        The company does outsourcing for Dell Technologies. I worked in the Dell Financial Service team, responsible for the development of the US Customer Portal.
+        
         Technologies: Angular 8, TypeScript, Java, Spring Framework, Hibernate, Microservices, Rabbit MQ and Git.
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
