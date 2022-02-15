@@ -10,7 +10,7 @@ name: Laio Dias
 title: Software Engineer
 email: laioviana@gmail.com
 # email_title: Email (Email title override)
-phone: +55 85 988027260
+phone: +31 0 6 49511773
 # phone_title: Phone (Phone title override)
 website: laio.dev
 # website_title: Web (Website title override)
@@ -34,24 +34,33 @@ twitter_username: laioviana
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Software Engineer from Brazil with 10+ years of experience most of the time working with <mark>Java (Spring Framework)</mark> and <mark>Angular 2+</mark>, but also with <mark>JavaScript</mark>, <mark>C# .NET</mark>, <mark>AngularJS</mark>, and native <mark>Android Development</mark>.
-
+  Hands-on and forward-thinking Software Engineer with 10+ years of experience and expertise in software development. Most of the time working with <mark>Java (Spring Framework)</mark> and <mark>Angular</mark>, but also have experience with <mark>JavaScript</mark>, <mark>C# .NET</mark>, and native <mark>Android Development (Kotlin)</mark>.
+  
   Very flexible and adaptable professional, with good interpersonal relation skills.
 
   Passionate for innovative ideas and entrepreneurship.
 
   Fluent English (IELTS Band 8 Certificate) and Portuguese speaker.
 
-  You can download the <a href="https://drive.google.com/file/d/1jCGK79MQtwbemk6SjDgz8JWpGqSAXtFt/view" target="_blank">English version of my PDF resume here</a> or the <a href="https://drive.google.com/file/d/1-fIvVhmL6g4MiohYF5sGomg01-Jy-TPQ/view" target="_blank">Portuguese version here</a>
+  You can download the <a href="https://drive.google.com/file/d/1dw8LZBXbGjZXeX0JULIlvZaE0qD0RZui/view" target="_blank">English version of my PDF resume here</a> or the <a href="https://drive.google.com/file/d/1-fIvVhmL6g4MiohYF5sGomg01-Jy-TPQ/view" target="_blank">Portuguese version here</a>
 
 content:
   - title: Experience
     layout: list
     content:
       - layout: right
+        title: Lunatech
+        sub_title: Senior Software Engineer
+        caption: July 2021 - Present
+        link: lunatech.nl
+        description: | # this will include new lines to allow paragraphs
+            Working as a consultant developing new features for the e-commerce The Sting. The shop handles thousands of sales weekly, and our mission was to add new complex and user-friendly components to it.
+            
+            <mark>Technologies:</mark> Java 11, Spring Framework, ElasticSearch, Postgres, CircleCI, Adyen Payments, and Git.
+      - layout: right
         title: Qintess
         sub_title: Senior Full-Stack Developer
-        caption: October 2020 - present
+        caption: October 2020 - June 2021
         link: qintess.com
         description: | # this will include new lines to allow paragraphs
             The company does outsourcing for Dell Technologies. I worked in the Dell Financial Service team, responsible for the development of the US Customer Portal.       
@@ -94,7 +103,7 @@ content:
             <mark>Technologies:</mark> JavaScript, Java, Android, AngularJS, Spring Framework, Hibernate, Kotlin, Jasper Studio, BI (Pentaho), Realm , Postgresql, GIT, Jira, and Bitbucket.
       - layout: right
         title: Secretaria do Planejamento e Gestão do Ceará (SEPLAG)
-        sub_title: Software Developer
+        sub_title: Software Engineer
         caption: April 2011 - January 2016
         link: seplag.ce.gov.br
         description: | # this will include new lines to allow paragraphs
